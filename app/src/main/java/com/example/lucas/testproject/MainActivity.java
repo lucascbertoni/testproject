@@ -15,4 +15,7 @@ public class MainActivity extends AppCompatActivity {
         System.out.print("This worked");
     }
 
+    public void testMethod2(){
+        // This worked too!
+    }
 }
